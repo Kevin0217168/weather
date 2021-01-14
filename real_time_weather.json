@@ -1,0 +1,46 @@
+{
+    "date": {
+        "Huang_Li": [
+            "宜: 祭祀、祈福、求嗣、斋醮、入殓、除服、成服、移柩、安葬、启钻",
+            "忌: 嫁娶、动土、开光、盖屋、破土"
+        ],
+        "week": "星期二",
+        "lunar_calendar": "农历正月十一"
+    },
+    "weather": {
+        "Vehicle_limit_operation": "限行尾号：2和7",
+        "air_temperature": "8℃",
+        "weather": "霾",
+        "air_quality": "空气质量 轻度污染",
+        "wind_power": "东风 2级",
+        "humidity": "湿度：51%",
+        "ultraviolet_rays": "紫外线：3级",
+        "pressure": "气压1011百帕",
+        "body_sensation": "凉",
+        "Somatosensory_temperature": "10℃",
+        "visibility": "中等",
+        "visibility_distance": "4.4km",
+        "cloudiness": "多云",
+        "cloud_ratio": "51%",
+        "sunrise_time": "日出：07:22",
+        "sunset_time": "日落：17:57"
+    },
+    "air_quality": {
+        "air_quality": "轻度污染",
+        "air_quality_recommendations": "空气一般，敏感人员外出时，需做好防护措施。",
+        "air_quality_recommendations_list": [
+            "建议戴口罩",
+            "减少外出",
+            "减少开窗",
+            "开启净化器"
+        ],
+        "pollutant_index_list": [
+            "114",
+            "112",
+            "58",
+            "32",
+            "13",
+            "1"
+        ]
+    }
+}

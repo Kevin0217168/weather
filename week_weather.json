@@ -1,0 +1,100 @@
+[
+    {
+        "date": "今天(02-04)",
+        "weather": "晴转多云",
+        "air_temperature": "-1/10℃",
+        "air_quality": "轻度",
+        "wind_power": "东北风 4级"
+    },
+    {
+        "date": "明天(02-05)",
+        "weather": "雨夹雪",
+        "air_temperature": "-1/1℃",
+        "air_quality": "良",
+        "wind_power": "东北风 3级"
+    },
+    {
+        "date": "周四(02-06)",
+        "weather": "雨夹雪转多云",
+        "air_temperature": "-3/2℃",
+        "air_quality": "良",
+        "wind_power": "东北风 1级"
+    },
+    {
+        "date": "周五(02-07)",
+        "weather": "晴",
+        "air_temperature": "-2/10℃",
+        "air_quality": "良",
+        "wind_power": "西南风 3级"
+    },
+    {
+        "date": "周六(02-08)",
+        "weather": "多云",
+        "air_temperature": "1/13℃",
+        "air_quality": "良",
+        "wind_power": "西风 3级"
+    },
+    {
+        "date": "周日(02-09)",
+        "weather": "晴转多云",
+        "air_temperature": "1/15℃",
+        "air_quality": "良",
+        "wind_power": "西风 3级"
+    },
+    {
+        "date": "周一(02-10)",
+        "weather": "阴",
+        "air_temperature": "4/16℃",
+        "air_quality": "良",
+        "wind_power": "南风 3级"
+    },
+    {
+        "date": "周二(02-11)",
+        "weather": "多云",
+        "air_temperature": "4/13℃",
+        "air_quality": "暂无",
+        "wind_power": "西北风 1级"
+    },
+    {
+        "date": "周三(02-12)",
+        "weather": "晴",
+        "air_temperature": "5/19℃",
+        "air_quality": "暂无",
+        "wind_power": "西北风 1级"
+    },
+    {
+        "date": "周四(02-13)",
+        "weather": "晴",
+        "air_temperature": "2/15℃",
+        "air_quality": "暂无",
+        "wind_power": "东南风 1级"
+    },
+    {
+        "date": "周五(02-14)",
+        "weather": "晴转多云",
+        "air_temperature": "1/12℃",
+        "air_quality": "暂无",
+        "wind_power": "东北风 3级"
+    },
+    {
+        "date": "周六(02-15)",
+        "weather": "多云",
+        "air_temperature": "1/11℃",
+        "air_quality": "暂无",
+        "wind_power": "东南风 1级"
+    },
+    {
+        "date": "周日(02-16)",
+        "weather": "小雨",
+        "air_temperature": "2/9℃",
+        "air_quality": "暂无",
+        "wind_power": "北风 1级"
+    },
+    {
+        "date": "周一(02-17)",
+        "weather": "多云转晴",
+        "air_temperature": "2/12℃",
+        "air_quality": "暂无",
+        "wind_power": "东南风 1级"
+    }
+]
